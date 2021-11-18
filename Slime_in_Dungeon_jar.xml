@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Slime in Dungeon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Slime_in_Dungeon_jar</output-path>
+    <root id="archive" name="Slime in Dungeon.jar">
+      <element id="module-output" name="Slime in Dungeon" />
+    </root>
+  </artifact>
+</component>
